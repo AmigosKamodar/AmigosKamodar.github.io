@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Lexend Peta', sans-serif;
+    
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
